@@ -1,2 +1,2 @@
 # P-CIPHER
-This is basically s-cipher except it's better and it also uses text instead of ascii codes. You can basically put anything into it if you use the library, but it doesn't work well with large amounts of text so it's better to split it up into words, p-cipher them, then use the whole words as the objects and p-cipher them. As for why I'm still naming my shifting classes after shapes, I honestly have no idea.
+This is basically s-cipher except it's better and it also uses text instead of ASCII codes. You can basically put anything into it if you use the library, but it doesn't work well with large amounts of text so it's better to split it up into words, p-cipher them, then use the whole words as the objects and p-cipher them.
